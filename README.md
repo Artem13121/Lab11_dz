@@ -13,3 +13,4 @@
   6. Конец.
 
 ### Блок-схема:
+<img width="121" height="821" alt="Диаграмма без названия Lab11 drawio" src="https://github.com/user-attachments/assets/b5388183-1372-4bbf-902a-ac67551cbe5c" />
