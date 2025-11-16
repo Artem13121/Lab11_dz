@@ -1,1 +1,3 @@
 # Домашнее задание к 11 работе
+### Условие:
+<img width="811" height="93" alt="image" src="https://github.com/user-attachments/assets/7f13ba05-361d-438d-b9a4-1c7c65f36911" />
